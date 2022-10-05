@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import { auth } from '../fbase';
 import { GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import { useState } from 'react';
-import Test from '../Test';
+//import Test from '../Test';
 
 const Loginpage = () => {
 
